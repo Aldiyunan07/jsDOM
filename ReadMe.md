@@ -2,4 +2,6 @@
 <ul>
     <li> Selector </li>
     <li> Manipulation </li>
+    <li> Event </li>
+    <li> latihan Warna </li>
 </ul>
