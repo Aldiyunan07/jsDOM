@@ -4,4 +4,5 @@
     <li> Manipulation </li>
     <li> Event </li>
     <li> latihan Warna </li>
+    <li> latihan Game Suit </li>
 </ul>
