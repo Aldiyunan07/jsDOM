@@ -5,4 +5,5 @@
     <li> Event </li>
     <li> latihan Warna </li>
     <li> latihan Game Suit </li>
+    <li> Traversal </li>
 </ul>
